@@ -6,7 +6,6 @@ a = 136
 b = 294
 c = 55
 
-
 x = abs(a - b)
 y = (a + b)** 3
 z = math.cos(c)
